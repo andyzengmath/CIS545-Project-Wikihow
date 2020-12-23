@@ -1,2 +1,2 @@
 # CIS545-Project-Wikihow
- CIS545 Fall2020 group project
+ CIS545 Big Data Analytics Fall2020 group project
