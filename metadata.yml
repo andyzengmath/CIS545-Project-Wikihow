@@ -1,0 +1,15 @@
+---
+:id: 59577070
+:submitters:
+- :name: Qingyun Zeng
+  :email: qze@sas.upenn.edu
+- :name: Nikhil Kokra
+  :email: kokran@wharton.upenn.edu
+- :name: Li Zhang
+  :email: zharry@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-15 23:59:57.936187000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-15 15:59:57.936187000 Z
+:status: processed
